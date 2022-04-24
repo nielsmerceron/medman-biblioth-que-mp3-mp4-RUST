@@ -1,0 +1,10 @@
+pub mod allfile;
+pub mod assis;
+pub mod fonctminim;
+pub mod scan;
+pub mod scrap;
+pub mod search;
+pub mod seria;
+pub mod tag;
+pub mod write;
+pub mod write2m;

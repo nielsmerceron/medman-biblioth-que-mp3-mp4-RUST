@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/home/niels/musique",
+    "artist": "powerwolf",
+    "title": "sanctified with dynamite",
+    "album": "blood of the saints",
+    "genre": "Metal",
+    "date": 2013
+  },
+  {
+    "path": "/home/niels/musique",
+    "artist": "1",
+    "title": "1",
+    "album": "1",
+    "genre": "Metal",
+    "date": 2013
+  },
+  {
+    "path": "/home/niels/musique",
+    "artist": "test",
+    "title": "test",
+    "album": "test",
+    "genre": "test",
+    "date": 2013
+  }
+]
